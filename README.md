@@ -278,6 +278,8 @@ Do the following steps while connected to server as `ubuntu`.
     ```
     sudo service apache2 restart
     ```
-## All done!
 
-The item catalog should now be accessible at the URL listed at the top of this document!
+
+## Resources
+
+[Documentation for mod_wsgi](https://modwsgi.readthedocs.io/en/develop/)
